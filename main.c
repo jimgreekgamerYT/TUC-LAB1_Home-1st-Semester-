@@ -1,5 +1,5 @@
 /*  File: Lab1
- *  Author: Dimitris Katsantonis
+ *  Author: jim ( jimgreekgamerYT )
  *
  *  Created on October 12, 2022
  *
